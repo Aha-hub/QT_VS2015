@@ -1,0 +1,10 @@
+﻿  Uic'ing DustMonSysT.ui...
+  Rcc'ing DustMonSysT.qrc...
+  Moc'ing DustMonSysT.h...
+   RCC: Warning: No resources in 'E:\Code\QT\DustMonSysT\DustMonSysT\DustMonSysT.qrc'.
+  MachDate.cpp
+  DustMonSysT.cpp
+  main.cpp
+  qrc_DustMonSysT.cpp
+  moc_DustMonSysT.cpp
+  DustMonSysT.vcxproj -> E:\Code\QT\DustMonSysT\x64\Debug\DustMonSysT.exe
